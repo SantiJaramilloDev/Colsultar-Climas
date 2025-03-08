@@ -21,7 +21,6 @@ header div div {
 .image1 {
   width: 60px;
   height: 60px;
-  border-radius: 20px;
   margin-left: 15px;
 }
 
@@ -204,6 +203,5 @@ footer .cont-image2 {
 footer .cont-image2 .image3 {
   width: 80px;
   height: 80px;
-  border-radius: 21px;
   margin-bottom: 15px;
 }/*# sourceMappingURL=stylesComents.css.map */
